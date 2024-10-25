@@ -10,7 +10,7 @@
 ### 🔬 Research Interests:
 - **Surface Plasmon Resonance (SPR) Sensors** for biomedical applications
 - **Nanocomposites** & advanced materials in detection systems
-- **Machine learning** in healthcare
+- **Machine learning** 
 
 ---
 
