@@ -13,7 +13,9 @@
 2. Bluetooth Controlled Speaker - Created a Bluetooth-enabled speaker to control audio playback via mobile
 
 📝 Publications:
-1. Numerical Study of Surface Plasmon Resonance Biosensor Employing Bismuth Ferrite, Black Phosphorus, and Zinc Telluride for Blood Group Detection (Published in Plasmonics, Springer)
+1. Numerical Study of Surface Plasmon Resonance Biosensor Employing Bismuth Ferrite, Black Phosphorus, and Zinc Telluride for Blood Group Detection (Published in Plasmonics, Springer),
+   DOI: 10.1007/s11468-024-02482-3
 2. Highly Sensitive SPR Sensor Integrating Zinc Selenide, Silver Nanocomposites, and Lead Titanate Layers for Cancer Type Detection (Submitted to Molecules, MDPI)
+   
 🌱 Skills: Python, MATLAB, Arduino, COMSOL, CST Studio Suite
 
