@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @TanjibAhmed
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello! I'm Tanjib Ahmed
 
-<!---
-TanjibAhmed/TanjibAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Electronics & Telecommunication Engineering graduate from Rajshahi University of Engineering & Technology (RUET)
+💻 Passionate about machine learning applications and sensor development for real-world problems.
+
+🔬 Research Interests:
+• Surface plasmon resonance (SPR) sensors
+• Nanocomposites & advanced materials for biomedical detection
+• Machine learning in healthcare
+
+📄 Notable Projects:
+
+Brain Tumor Detection - Developed a website for brain tumor cell detection using MRI images with machine learning
+Bluetooth Controlled Speaker - Created a Bluetooth-enabled speaker to control audio playback via mobile
+📝 Publications:
+
+Numerical Study of Surface Plasmon Resonance Biosensor Employing Bismuth Ferrite, Black Phosphorus, and Zinc Telluride for Blood Group Detection (Published in Plasmonics, Springer)
+Highly Sensitive SPR Sensor Integrating Zinc Selenide, Silver Nanocomposites, and Lead Titanate Layers for Cancer Type Detection (Submitted to Molecules, MDPI)
+🌱 Skills: Python, MATLAB, Arduino, COMSOL, CST Studio Suite
+
+📫 LinkedIn | GitHub
