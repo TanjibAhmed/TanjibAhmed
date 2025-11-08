@@ -9,7 +9,7 @@
 
 ### 🔬 Research Interests:
 - **Surface Plasmon Resonance (SPR) Sensors**
-- **Silicon Photonics** & in CMOS devices
+- **Silicon Photonics** in CMOS devices
 - **Nanocomposites** & advanced materials in detection systems
 - **Machine learning** 
 
