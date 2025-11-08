@@ -24,7 +24,7 @@
 1. *Numerical Study of Surface Plasmon Resonance Biosensor Employing Bismuth Ferrite, Black Phosphorus, and Zinc Telluride for Blood Group Detection.*  
    Published in **Plasmonics**, Springer, [DOI: 10.1007/s11468-024-02482-3](https://doi.org/10.1007/s11468-024-02482-3)
 2. *Highly Sensitive SPR Sensor Integrating Zinc Selenide, Silver Nanocomposites, and Lead Titanate Layers for Cancer Type Detection.*  
-   Submitted to **Microchimica Acta**, Springer, [DOI: 10.1007/s11468-024-02482-3](https://doi.org/10.1007/s00604-024-06867-3)
+   Published in to **Microchimica Acta**, Springer, [DOI: 10.1007/s00604-024-06867-3](https://doi.org/10.1007/s00604-024-06867-3)
 
 ---
 
