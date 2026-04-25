@@ -3,21 +3,15 @@
 <h1 align="center">👋 Hello! I'm Tanjib Ahmed</h1>
 
 🎓 **Electronics & Telecommunication Engineering** graduate from **Rajshahi University of Engineering & Technology (RUET)**  
-💻 **Passionate about** machine learning applications and sensor development for real-world problems.
 
 ---
 
 ### 🔬 Research Interests:
 - **Surface Plasmon Resonance (SPR) Sensors**
 - **Silicon Photonics** in CMOS devices
+- **VLSI Semiconductors** 
 - **Nanocomposites** & advanced materials in detection systems
 - **Machine learning** 
-
----
-
-### 📄 Notable Projects:
-1. **Brain Tumor Detection** - Developed a website for detecting brain tumor cells in MRI images with machine learning.
-2. **Bluetooth Controlled Speaker** - Designed a Bluetooth-enabled speaker to control audio playback via mobile.
 
 ---
 
